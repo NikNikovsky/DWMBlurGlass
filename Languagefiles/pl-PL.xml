@@ -24,13 +24,13 @@
 	<installsucs1>Zainstalowano pomyślnie! Ale nie pobrałeś jeszcze prawidłowych plików symboli. Pobierz je ze strony „Symbole”, aby DWMBlurGlass działał.</installsucs1>
 	<installfail>Instalacja nie powiodła się, kod błędu: </installfail>
 	<uninstallsucs>Odinstalowano pomyślnie.</uninstallsucs>
-	<uninstallfail>Uninstall failed! Error message: </uninstallfail>
-	<loadfail>Failed to load component! Error message: </loadfail>
+	<uninstallfail>Deinstalacja nie powidoła się z kodem błędu: </uninstallfail>
+	<loadfail>Nie udało się załadować komponentu! Kod błędu: </loadfail>
 	<saveconfig>Zapisz</saveconfig>
 	<effectset>Ustawienia efektu</effectset>
-	<blurvalue>Blur radius (global):</blurvalue>
-	<overrideDwmapi>Override DWMAPI effect (Windows 11)</overrideDwmapi>
-	<extendborder>Extend effects to borders (Windows 10)</extendborder>
+	<blurvalue>Promień rozmycia (globalny):</blurvalue>
+	<overrideDwmapi>Zastąp efekt DWMAPI (Windows 11)</overrideDwmapi>
+	<extendborder>Rozszerz efekty na granice (Windows 10)</extendborder>
 	<reflection>Enable Aero reflection effect</reflection>
 	<reflectiontip>(Legacy blur method for Windows 10 only)</reflectiontip>
 	<oldBtnSize>Restore Win7 style titlebar button size</oldBtnSize>
