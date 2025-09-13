@@ -23,7 +23,7 @@
 	<installsucs>Installed successfully!</installsucs>
 	<installsucs1>Installed successfully! But you haven't downloaded valid symbol files yet, download it from the "Symbols" page to make DWMBlurGlass work.</installsucs1>
 	<installfail>Install failed! Error message: </installfail>
-	<uninstallsucs>Uninstall successfully.</uninstallsucs>
+	<uninstallsucs>Uninstalled successfully.</uninstallsucs>
 	<uninstallfail>Uninstall failed! Error message: </uninstallfail>
 	<loadfail>Failed to load component! Error message: </loadfail>
 	<saveconfig>Save</saveconfig>
